@@ -1,4 +1,3 @@
-r=float(input("enter radias"))
-x=22/7*r*r
-print(x)
-input("press enter")
+x=float(input("Enter num1"))
+y=float(input("Enter num2"))
+z=float(input("Enter num3"))
